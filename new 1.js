@@ -396,4 +396,4 @@ client.on('guildMemberAdd', member=> {
     member.addRole(role);
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(NTg1NDg3NTEwNTYyNDA2NDAw.XPaL3g.l2mxs6ZVxzWSo6l721WKTD5VpTo);
